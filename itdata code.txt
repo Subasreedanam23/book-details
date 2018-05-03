@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
+<TITLE>it</TITLE>
+</HEAD>
+<BODY>
+<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Calibri" COLOR=#000000><CAPTION><B>it</B></CAPTION></FONT>
+
+<THEAD>
+<TR>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>ID</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>subject</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>book</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>website</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>link</FONT></TH>
+
+</TR>
+</THEAD>
+<TBODY>
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>1</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Analog electronic circuits</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>A text book on analog circuits</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Digital-Analog-Communication-Systems-8e/dp/9332518580?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>2</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Analog electronic circuits</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Analog electronic circuits</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Electronic-Devices-Circuits-Venkata-Rama/dp/9332901155?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>3</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>networks analysis</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>social network analysis</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Social-Network-Analysis-Applications-Structural/dp/0521387078</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>4</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>networks analysis</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Network analysis</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Network-Analysis-Jagan/dp/9383635142?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>5</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Object oriented programming</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Object oriented programming in c++</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Object-Oriented-Programming-C-4e/dp/8131722821?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>6</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Object oriented programming</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Domain driiven design</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>ebay</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.ebay.com/p/Domain-Driven-Design-Tackling-Complexity-in-the-Heart-of-Software-by-Eric-Evans-2003-Hardcover/2372190</FONT></TD>
+
+</TR>
+</TBODY>
+<TFOOT></TFOOT>
+</TABLE>
+</BODY>
+</HTML> 

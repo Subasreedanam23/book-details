@@ -1,0 +1,70 @@
+﻿<html>
+<head>
+<link rel="stylesheet" type="text/css" href="cs1.css">
+</head>
+<body>
+<page2>
+<cs>Electronics and communication engineering<a href="ecedata.html">link</a></cs>
+<branch1>Electro magnetics
+<book1><b><i>Engineering electro magnetics</i></b>
+<dtls>- The classic in the field for over four decades has just been updated with new topics, more numerical examples, and drill problems with answers, making independent learning a snap.</dtls>
+<dtls><b>Originally published:</b> 1958</dtls>
+<dtls><b>Authors:</b> William Hayt ,‎John Buck </dtls>
+<dtls><b>Publisher:</b> McGraw-Hill Education</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 608</dtls>
+<dtls><b>link:</b> <a href="https://www.flipkart.com/engineering-electromagnetics-with-cd-7th/p/itmczynvmrpwztzc"> flipkart link</a></dtls>
+</book1>
+<book2><b><i>Elements of electro magnetics</i></b>
+<dtls>- Elements of Electromagnetics, Fifth Edition, uses a vectors-first approach to explain electrostatics, magnetostatics, fields, waves, and applications like transmission lines, waveguides, and antennas/dtls>
+<dtls><b>Originally published:</b> 1989</dtls>
+<dtls><b>Author:</b> JMatthew N.O. Sadiku</dtls>
+<dtls><b>Publisher:</b> OUP USA</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 702</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Elements-Electromagnetics-Electrical-Computer-Engineering/dp/0199321388"> amazon link</a></dtls>
+</book2>
+</branch1>
+<branch2>Microprocessor and computer architecture
+<book3><b><i>Microprocessor and micro-controllers</i></b>
+<dtls>-This edition of Microprocessors and Microcontrollers is a modern update of the classic authoritative text. This book caters to the syllabus with coverage on both microprocessors and microcontrollers for the undergraduate student.</dtls>
+<dtls><b>Originally published:</b> 2013</dtls>
+<dtls><b>Authors:</b> Janice Mazidi </dtls>
+<dtls><b>Paperback:</b> 696 pages</dtls>
+<dtls><b>Publisher:</b> Pearson Education</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.com/Micro-Processors-Controller-Janice-Mazidi/dp/813178956X"> amazon link</a></dtls>
+</book3>
+<book4><b><i>Microprocessor design</i></b>
+<dtls>- Microprocessor Design takes entry-level engineers and non-specialists through the fundamentals of microprocessor design, including basic concepts, components, packaging, architectures, circuit design, layout, and testing</dtls>
+<dtls><b>Originally published:</b> 2006</dtls>
+<dtls><b>Author:</b> Grant McFarland</dtls>
+<dtls><b>Paperback:</b> 408 pages</dtls>
+<dtls><b>Publisher:</b> McGraw-Hill Education</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.ebay.com/p/Professional-Engineering-Microprocessor-Design-A-Practical-Guide-from-Design-Planning-to/48698432?iid=322541038594"> ebay link</a></dtls>
+</book4>
+</branch2>
+<branch3>Integrated circuits
+<book5><b><i>Design of analog CMOS circuits</i></b>
+<dtls>- This textbook deals with the analysis and design of analog CMOS integrated circuits, emphasizing recent technological developments and design paradigms that students and practicing engineers need to master </dtls>
+<dtls><b>Originally published:</b> 2000</dtls>
+<dtls><b>Author:</b> Behzad Razavi</dtls>
+<dtls><b>Publisher:</b> McGraw Hill Education </dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>Paperback:</b> 704 pages</dtls>
+<dtls><b>link:</b> <a href="https://www.flipkart.com/design-analog-cmos-integrated-circuits-1st/p/itmef2panzhycp3x"> flipkart link</a></dtls>
+</book5>
+<book6><b><i>Digital integrated circuits</i></b>
+<dtls>- Progressive in content and form, this text successfully bridges the gap between the circuit perspective and system perspective of digital integrated circuit design.</dtls>
+<dtls><b>Originally published:</b> 29 December 1995</dtls>
+<dtls><b>Author:</b>  Jan M. Rabaey, Anantha P. Chandrakasan, Borivoje Nikolić</dtls>
+<dtls><b>Paperback:</b> 761 pages</dtls>
+<dtls><b>Publisher:</b> Pearson</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://madrasshoppe.com/digital-integrated-circuits-a-design-perspective-rabaey-9789332573925-2579.html"> madrasshoppe link</a></dtls>
+</book6>
+</branch3>
+</page2>
+</body>
+</html>

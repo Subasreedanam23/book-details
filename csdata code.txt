@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=windows-1252">
+<TITLE>cs</TITLE>
+</HEAD>
+<BODY>
+<TABLE BORDER=1 BGCOLOR=#ffffff CELLSPACING=0><FONT FACE="Calibri" COLOR=#000000><CAPTION><B>cs</B></CAPTION></FONT>
+
+<THEAD>
+<TR>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>ID</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>subject</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>book</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>website</FONT></TH>
+<TH BGCOLOR=#c0c0c0 BORDERCOLOR=#000000 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>link</FONT></TH>
+
+</TR>
+</THEAD>
+<TBODY>
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>1</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Artificial intelligence</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Artificial intellingence: a modern approach</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Artificial-Intelligence-Modern-Approach-Russell/dp/B005VDKB3C?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>2</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Artificial intelligence</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Super intelligence:paths,dangers ,strategies</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>goodreads</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.goodreads.com/book/show/20527133-superintelligence</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>3</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Cyber security</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Cybersecurity and cyberwar: what everyone needs to know</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Cybersecurity-Beginners-Raef-Meeuwisse-ebook/dp/B06WGTKN21?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>4</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Cyber security</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Cybersecurity for beginners</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>flipkart</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.flipkart.com/cyber-security/p/itmdpqffxje9fxhy</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>5</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Software engineering</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>The Mythical Man-Month</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>ebay</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.ebay.com/p/The-Mythical-Man-Month-by-Frederick-P-Jr-Brooks-1995-Paperback-Anniversary/1439267</FONT></TD>
+
+</TR>
+
+<TR VALIGN=TOP>
+<TD BORDERCOLOR=#eeece1  ALIGN=RIGHT><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>6</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Software engineering</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>Software engineering: a practitionary approach</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>amazon</FONT></TD>
+<TD BORDERCOLOR=#eeece1 ><FONT style=FONT-SIZE:11pt FACE="Calibri" COLOR=#000000>https://www.amazon.in/Software-Engineering-Practitioners-Approach-India/dp/0071240837?tag=googinhydr18418-21&amp;tag=googinkenshoo-21&amp;ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67</FONT></TD>
+
+</TR>
+</TBODY>
+<TFOOT></TFOOT>
+</TABLE>
+</BODY>
+</HTML> 

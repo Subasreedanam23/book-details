@@ -1,0 +1,70 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="cs1.css">
+</head>
+<body>
+<page2>
+<cs>Information technology engineering<a href="itdata.html"> link</a></cs>
+<branch1>Analog electronic circuits
+<book1><b><i>A text book on analog circuits</i></b>
+<dtls>- This book is thoroughly revised and updated and is a ready use for engineering aspirants. The application of some simple rules-of-thumb and design techniques is the first step in developing an intuitive understanding of the behavior of complex electrical systems.</dtls>
+<dtls><b>Originally published:</b> 2016</dtls>
+<dtls><b>Authors:</b> a.rajkumar</dtls>
+<dtls><b>Publisher:</b> Made Easy Publications</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 416</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Digital-Analog-Communication-Systems-8e/dp/9332518580?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book1>
+<book2><b><i>Analog electronic circuits</i></b>
+<dtls>- Analog electronic circuits, Fifth Edition, uses a vectors-first approach to explain electrostatics, magnetostatics, fields, waves, and applications like transmission lines, waveguides, and antennas</dtls>
+<dtls><b>Originally published:</b> 2013</dtls>
+<dtls><b>Author:</b>  J.B. Gupta</dtls>
+<dtls><b>Publisher:</b> S.K. Kataria & Sons</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 400</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Electronic-Devices-Circuits-Venkata-Rama/dp/9332901155?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book2>
+</branch1>
+<branch2>networks analysis
+<book3><b><i>social network analysis</i></b>
+<dtls>-Social network analysis is used widely in the social and behavioral sciences, as well as in economics, marketing, and industrial engineering. </dtls>
+<dtls><b>Originally published:</b> 1994</dtls>
+<dtls><b>Authors:</b> Stanley Wasserman, Katherine Faust</dtls>
+<dtls><b>Paperback:</b> 857 pages</dtls>
+<dtls><b>Publisher:</b> Cambridge University Press</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Social-Network-Analysis-Applications-Structural/dp/0521387078"> amazon link</a></dtls>
+</book3>
+<book4><b><i>Network analysis</i></b>
+<dtls>- This book on network analysis is generally one of the basic texts a student of engineering refers to. While currently available books on the subject adequately cover the different facets.</dtls>
+<dtls><b>Originally published:</b> 2014</dtls>
+<dtls><b>Author:</b> Jagan </dtls>
+<dtls><b>Paperback:</b> 672 pages</dtls>
+<dtls><b>Publisher:</b> Bsp </dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Network-Analysis-Jagan/dp/9383635142?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book4>
+</branch2>
+<branch3>Object oriented programming
+<book5><b><i>Object oriented programming in c++</i></b>
+<dtls>- Object-Oriented Programming in C++ begins with the basic principles of the C++ programming language and systematically introduces increasingly.</dtls>
+<dtls><b>Originally published:</b> 1991</dtls>
+<dtls><b>Author:</b> Robert Lafore</dtls>
+<dtls><b>Publisher:</b>  Sams </dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>Paperback:</b> 1,010 pages</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Object-Oriented-Programming-C-4e/dp/8131722821?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book5>
+<book6><b><i>Domain driiven design</i></b>
+<dtls>- Domain-driven design is an approach to software development for complex needs by connecting the implementation to an evolving model.</dtls>
+<dtls><b>Originally published:</b> 2003</dtls>
+<dtls><b>Author:</b> Eric J. Evans</dtls>
+<dtls><b>Paperback:</b> 560 pages</dtls>
+<dtls><b>Publisher:</b>Addison Wesley</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.ebay.com/p/Domain-Driven-Design-Tackling-Complexity-in-the-Heart-of-Software-by-Eric-Evans-2003-Hardcover/2372190">ebay link</a></dtls>
+</book6>
+</branch3>
+</page2>
+</body>
+</html>

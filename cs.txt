@@ -1,0 +1,70 @@
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="cs1.css">
+</head>
+<body>
+<page2>
+<cs>Computer science engineering <a href="csdata.html"> link</a></cs>
+<branch1>Artificial intelligence
+<book1><b><i>Artificial intellingence: a modern approach</i></b>
+<dtls>- Artificial Intelligence: A Modern Approach is a university textbook on artificial intelligence, written by Stuart J. Russell and Peter Norvig. It was first published in 1995 and the third edition of the book was released 11 December 2009.</dtls>
+<dtls><b>Originally published:</b> 13 December 1994</dtls>
+<dtls><b>Authors:</b> Peter Norvig, Stuart J. Russell</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 1,152</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Artificial-Intelligence-Modern-Approach-Russell/dp/B005VDKB3C?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book1>
+<book2><b><i>Super intelligence:paths,dangers ,strategies</i></b>
+<dtls>- Superintelligence: Paths, Dangers, Strategies is a 2014 book by the Swedish philosopher Nick Bostrom from the University of Oxford.</dtls>
+<dtls><b>Originally published:</b> 3 July 2014</dtls>
+<dtls><b>Author:</b> Nick Bostrom</dtls>
+<dtls><b>Subject:</b> Artificial intelligence</dtls>
+<dtls><b>Preceded by:</b> Global Catastrophic Risks</dtls>
+<dtls><b>Genres:</b> Philosophy, Popular science</dtls>
+<dtls><b>link:</b> <a href="https://www.goodreads.com/book/show/20527133-superintelligence"> goodreads link</a></dtls>
+</book2>
+</branch1>
+<branch2>Cyber security
+<book3><b><i>Cybersecurity and cyberwar: what everyone needs to know</i></b>
+<dtls>- A generation ago, "cyberspace" was just a term from science fiction, used to describe the nascent network of computers linking a few university labs.</dtls>
+<dtls><b>Originally published:</b> 2013</dtls>
+<dtls><b>Authors:</b> Allan Friedman, P. W. Singer</dtls>
+<dtls><b>Paperback:</b> 224 pages</dtls>
+<dtls><b>Publisher:</b> Oxford University Press India (6 February 2014)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Cybersecurity-Beginners-Raef-Meeuwisse-ebook/dp/B06WGTKN21?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book3>
+<book4><b><i>Cybersecurity for beginners</i></b>
+<dtls>- This book provides an easy insight into the essentials of cybersecurity, even if you have a non-technical background.</dtls>
+<dtls><b>Originally published:</b> 2015</dtls>
+<dtls><b>Author:</b> Raef Meeuwisse</dtls>
+<dtls><b>Paperback:</b> 190 pages</dtls>
+<dtls><b>Publisher:</b> Lulu Publishing Services</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.flipkart.com/cyber-security/p/itmdpqffxje9fxhy"> flipkart link</a></dtls>
+</book4>
+</branch2>
+<branch3>Software engineering
+<book5><b><i>The Mythical Man-Month</i></b>
+<dtls>- The Mythical Man-Month: Essays on Software Engineering is a book on software engineering and project management by Fred Brooks, whose central theme is that "adding manpower to a late software project makes it later".</dtls>
+<dtls><b>Originally published:</b> 1975</dtls>
+<dtls><b>Author:</b> Fred Brooks</dtls>
+<dtls><b>Publisher:</b> Addison-Wesley</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>Paperback:</b> 336 pages</dtls>
+<dtls><b>link:</b> <a href="https://www.ebay.com/p/The-Mythical-Man-Month-by-Frederick-P-Jr-Brooks-1995-Paperback-Anniversary/1439267"> ebay link</a></dtls>
+</book5>
+<book6><b><i>Software engineering: a practitionary approach</i></b>
+<dtls>- For over 20 years, this has been the best-selling guide to software engineering for students and industry professionals.</dtls>
+<dtls><b>Originally published:</b> 12 March 1982</dtls>
+<dtls><b>Author:</b> Roger S. Pressman</dtls>
+<dtls><b>Paperback:</b> 928 pages</dtls>
+<dtls><b>Publisher:</b> McGraw Hill Education; 7 edition (1 April 2009)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Software-Engineering-Practitioners-Approach-India/dp/0071240837?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book6>
+</branch3>
+</page2>
+</body>
+</html>

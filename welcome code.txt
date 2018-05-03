@@ -1,0 +1,104 @@
+<html>
+<head>
+books store
+<link rel="stylesheet" type="text/css" href="welcome.css">
+</head>
+<body>
+<page>
+<welcome>
+WELCOME TO ONLINE BOOKS DETAILS
+</welcome>
+<streams>
+SELECT FROM THE STREAM OF BOOK TO VIEW DETAILS
+<stream>1) Computer science engineering<a href="cs.html"> details </a>
+<strm>
+<s1>  a) Artificial intelligence
+<subj>
+<a1>- Artificial intellingence: a modern approach</a1>
+<a2>- Super intelligence:paths,dangers ,strategies</a2>
+</subj>
+</s1>
+<s1>  b) Cyber security
+<subj>
+<b1>- Cybersecurity and cyberwar: what everyone needs to know</b1>
+<b2>- Cybersecurity for beginners</b2>
+</subj>
+</s1>
+<s1>  c) Software engineering
+<subj>
+<c1>- The mythical man-moth</c1>
+<c2>- Software engineering: a practitionary approach</c2>
+</subj>
+</s1>
+</strm>
+</stream>
+<stream>2) Mechanical engineering<a href="mech.html"> details </a>
+<strm>
+<s2>  a) Statistics and dynamics
+<subj>
+<d1>- Engineering mechanics combined statics & dynamics</d1>
+<d2>- Meriam engineering mechanics: dynamics</d2>
+</subj>
+</s2>
+<s2>  b) Materials engineering
+<subj>
+<e1>- Material and science engineering: an introduction</e1>
+<e2>- Engineering materials 1: an introduction</e2>
+</subj>
+</s2>
+<s2>  c) Basic physical sciences
+<subj>
+<f1>- The pedagogy of physical science</f1>
+<f2>- Physical science</f2>
+</subj>
+</s2>
+</strm>
+</stream>
+<stream>3) Electronics and communication engineering<a href="ece.html"> details </a>
+<strm>
+<s3>a) Electro magnetics
+<subj>
+<g1>- Engineering electro magnetics</g1>
+<g2>- Elements of electro magnetics</g2>
+</subj>
+</s3>
+<s3>b) Microprocessor and computer architecture
+<subj>
+<ha1>- Microprocessor and micro-controllers</ha1>
+<ha2>- Microprocessor design</ha2>
+</subj>
+</s3>
+<s3>c) Integrated circuits
+<subj>
+<i1>- Design of analog CMOS circuits</i1>
+<i2>- Digital integrated circuits</i2>
+</subj>
+</s3>
+</strm>
+</stream>
+<stream>4) Information technology engineering<a href="it.html"> details </a>
+<strm>
+<s4>a) Analog electronic circuits
+<subj>
+<j1>- A text book on analog circuits</j1>
+<j2>- Analog electronic circuits</j2>
+</subj>
+</s4>
+<s4>b) networks analysis
+<subj>
+<k1>- A social network analysis</k1>
+<k2>- Network analysis</k2>
+</subj>
+</s4>
+<s4>c) Object oriented programming
+<subj>
+<l1>- Object oriented programming in c++</l1>
+<l2>- Domain driiven design</l2>
+</subj>
+</s4>
+</strm>
+</stream>
+</streams>
+</page>
+</body>
+</html>

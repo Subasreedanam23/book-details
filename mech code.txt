@@ -1,0 +1,69 @@
+﻿<html>
+<head>
+<link rel="stylesheet" type="text/css" href="cs1.css">
+</head>
+<body>
+<page2>
+<cs>Mechanical engineering<a href="mechdata.html">link</a></cs>
+<branch1>Statistics and dynamics
+<book1><b><i>Engineering mechanics combined statics & dynamics</i></b>
+<dtls>- Engineering Mechanics: Statics in SI Units, 12e provides students with a clear and thorough presentation of the theory and applications of this subject.</dtls>
+<dtls><b>Originally published:</b> December 22, 1997</dtls>
+<dtls><b>Authors:</b>R. C. Hibbeler</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 1,296</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.com/Engineering-Mechanics-Combined-Statics-Dynamics-ebook/dp/B005F70DLY"> amazon link</a></dtls>
+</book1>
+<book2><b><i>Meriam engineering mechanics: dynamics</i></b>
+<dtls>- A modern text for use in today's classroom! The revision of this classic text continues to provide the same high quality material seen in previous editions</dtls>
+<dtls><b>Originally published:</b> 1980</dtls>
+<dtls><b>Author:</b> J.L. Meriam, L. Kraige</dtls>
+<dtls><b>Publisher:</b> Wiley; Seventh edition (2013))</dtls>
+<dtls><b>Original language:</b> English</dtls>
+<dtls><b>Page count:</b> 748</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.com/Engineering-Mechanics-Dynamics-James-L-Meriam/dp/1118393635"> amazon link</a></dtls>
+</book2>
+</branch1>
+<branch2>Materials engineering
+<book3><b><i>Material and science engineering: an introduction</i></b>
+<dtls>- An outstanding book that provides complete coverage and reflects the latest developments in the field of materials science</dtls>
+<dtls><b>Originally published:</b> 1985</dtls>
+<dtls><b>Authors:</b> William Callister</dtls>
+<dtls><b>Paperback:</b> 992 pages</dtls>
+<dtls><b>Publisher:</b> John Wiley & Sons; 8th Edition edition (18 January 2010)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="http://www.ebay.com/bhp/materials-science-and-engineering"> ebay link</a></dtls>
+</book3>
+<book4><b><i>Engineering materials 1: an introduction</i></b>
+<dtls>- This work provides a broad introduction to the properties of materials used in engineering applications. The chapters are arranged in groups, with each group describing a particular class of properties.</dtls>
+<dtls><b>Originally published:</b> 1990</dtls>
+<dtls><b>Author:</b> Michael F. Ashby,‎David R. H Jones</dtls>
+<dtls><b>Paperback:</b> 228 pages</dtls>
+<dtls><b>Publisher:</b> Butterworth-Heinemann; 2nd edition (June 1996)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.com/Engineering-Materials-Fourth-Introduction-Applications/dp/0080966659"> amazon link</a></dtls>
+</book4>
+</branch2>
+<branch3>Basic physical sciences
+<book5><b><i>The pedagogy of physical science</i></b>
+<dtls>- In the science classroom, there are some ideas that are as difficult for young students to grasp as they are for teachers to explain. Forces, electricity, light, and basic astronomy are all examples of conceptual domains that come into this category./dtls>
+<dtls><b>Originally published:</b> 2010</dtls>
+<dtls><b>Author:</b> David Heywood, Joan Parker</dtls>
+<dtls><b>Publisher:</b> Springer (18 April 2010)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>Paperback:</b> 212 pages</dtls>
+<dtls><b>link:</b> <a href="https://www.flipkart.com/pedagogy-physical-science-1st-edition/p/itme3zysetpqyyke"> flipkart link</a></dtls>
+</book5>
+<book6><b><i>Conceptual Physical science</i></b>
+<dtls>- "Conceptual Physical Science," Third Edition takes learning physical science to a new level by combining HewittOs leading conceptual approach</dtls>
+<dtls><b>Originally published:</b> 12 March 1971</dtls>
+<dtls><b>Author:</b> Paul G. Hewitt, John Suchocki, Leslie Hewitt</dtls>
+<dtls><b>Paperback:</b> 880 pages</dtls>
+<dtls><b>Publisher:</b>  Pearson; 5 edition (September 30, 2011)</dtls>
+<dtls><b>Language:</b> English</dtls>
+<dtls><b>link:</b> <a href="https://www.amazon.in/Conceptual-Physics-Pearson-Paul-Hewitt/dp/9352861779?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=475b99f7-6fc7-446d-b38a-c7ad2be40c67"> amazon link</a></dtls>
+</book6>
+</branch3>
+</page2>
+</body>
+</html>
